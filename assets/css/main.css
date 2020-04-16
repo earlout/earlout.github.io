@@ -824,6 +824,7 @@
 		transition: background-color 0.2s ease-in-out, border-color 0.2s ease-in-out, color 0.2s ease-in-out;
 		display: inline-block;
 		height: 2.75em;
+        width: 12em;
 		line-height: 2.75em;
 		padding: 0 1.5em;
 		background-color: transparent;
